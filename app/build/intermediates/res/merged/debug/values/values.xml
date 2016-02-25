@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="call_log_title_icon_margin_top">4dp</dimen>
+    <dimen name="dialog_margin_size">20dp</dimen>
+    <dimen name="edittext_height">40dp</dimen>
+    <dimen name="font_size_big">20sp</dimen>
+    <dimen name="font_size_medium">17sp</dimen>
+    <dimen name="font_size_small">13sp</dimen>
+    <dimen name="font_size_super_big">30sp</dimen>
+    <dimen name="home_vertical_margin">5dp</dimen>
+    <dimen name="list_item_height">39dp</dimen>
+    <dimen name="margin_size">5dp</dimen>
+    <dimen name="textview_height">40dp</dimen>
+    <dimen name="title_call_log_layout_height">53dp</dimen>
+    <dimen name="title_footer_layout_height">40dp</dimen>
+    <string name="app_name">StepMoveList</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="fontStyleWhite" parent="android:Widget.TextView">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">@dimen/font_size_medium</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="fontStyleWhiteBig" parent="android:Widget.TextView">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">@dimen/font_size_big</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="fontStyleWhiteMedium" parent="android:Widget.TextView">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">@dimen/font_size_medium</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="fontStyleWhiteSmall" parent="android:Widget.TextView">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">@dimen/font_size_small</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\StepMoveList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xz1.png",
+        "source": "D:\\StepMoveList\\app\\src\\main\\res\\drawable-mdpi\\xz1.png"
+    },
+    {
+        "merged": "D:\\StepMoveList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\StepMoveList\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StepMoveList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\divider.png",
+        "source": "D:\\StepMoveList\\app\\src\\main\\res\\drawable-mdpi\\divider.png"
+    }
+]
